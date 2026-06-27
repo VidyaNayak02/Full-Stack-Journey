@@ -1,0 +1,17 @@
+HTML Entities
+
+&lt;      - Displays <
+&gt;      - Displays >
+&amp;     - Displays &
+&nbsp;    - Inserts a non-breaking space
+&copy;    - Displays © (Copyright)
+&reg;     - Displays ® (Registered Trademark)
+&trade;   - Displays ™ (Trademark)
+&quot;    - Displays " (Double quotation mark)
+&apos;    - Displays ' (Single quotation mark)
+&hearts;  - Displays ♥ (Heart)
+&star;    - Displays ☆ (Star)
+&dollar;  - Displays $
+&euro;    - Displays € (Euro)
+&pound;   - Displays £ (Pound)
+&yen;     - Displays ¥ (Yen)
