@@ -1,0 +1,10 @@
+.navigation {
+    background-image:url("space.png");
+    display:flex;
+    gap: 30px;
+    padding:10px;
+    justify-content:center;
+    border-radius:15px;
+    flex-direction:row;
+    
+}
